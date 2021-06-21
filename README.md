@@ -1,4 +1,4 @@
-## 👋 Hi there, mucho gusto 
+## 👋 Hi there!
 Welcome to my GitHub profile. My name is Fernanda Luna and I'm currently working as a UI Developer 👩🏻‍💻. 
 
 ### 🌸 About me
