@@ -24,7 +24,7 @@ Welcome to my GitHub profile. My name is Fernanda Luna and I'm currently working
 
 
 ### ⭐️ My latest project (in progress)
-<a href="https://github.com/ferlu/grocery-list"><b>Grocery list</b></a>
+<a href="https://github.com/ferlu/react-todo-app"><b>React todo app</b></a>
 
 ### 📮 Contact me here: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandalu/)](https://www.linkedin.com/in/fernandalu/)
