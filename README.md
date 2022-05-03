@@ -1,29 +1,24 @@
-## 👋 Hi there!
-Welcome to my GitHub profile. My name is Fernanda Luna and I'm currently working as a UI Developer 👩🏻‍💻. 
+## 👋  Hola!
+I'm Fernanda Luna (She/Her/Hers) and I'm a Software Engineer at Wizeline👩🏻‍💻. 
 
-### 🌸 About me
-- Pronouns: She/Her/Hers
-- I love frontend development, right now I'm focusing on React. 
-- Most of my repos are: personal projects / projects I create while following tutorials / projects I create trying to grasp concepts...therefore, the code can be a bit messy.
-- I love traveling, drawing and learning new languages! I speak Spanish, English, some French and I'm learning Japanese. 
+#### 🌸  About me
+- Most of my repos are personal projects. The code is messy and it can also be a bit ugly.
+- I'm focused on frontend development. I don't like backend-only roles, because I'm not good at backend and it also bores me to death (sorry!).
+- I love traveling, reading, drawing and learning new languages (I speak Spanish, English, some basic French and I'm learning Japanese).
 
-### 💻 Main stack
+<hr>
+
+#### 💻  Main stack
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ferlu/)](https://github.com/ferlu/) 
 [![JS](https://img.shields.io/badge/-JS-black?style=flat-square&logo=javascript&link=https://github.com/ferlu/)](https://github.com/ferlu/)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ferlu/)](https://github.com/ferlu/)
 [![Sass](https://img.shields.io/badge/-Sass-FF69B4?style=flat-square&logo=sass&logoColor=white&link=https://github.com/ferlu/)](https://github.com/ferlu/)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&link=https://github.com/ferlu/)](https://github.com/ferlu/)
-[![MySQL](https://img.shields.io/badge/-MySQL-9CF?style=flat-square&logo=mysql&link=https://github.com/ferlu/)](https://github.com/ferlu/)
 
-### 📚 Side stack (still learning)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ferlu/)](https://github.com/ferlu/)
-<!--[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/ferlu/)](https://github.com/ferlu/)-->
-
-
-### ⭐️ My latest project (in progress)
+#### ⭐️  My latest project (in progress)
 <a href="https://github.com/ferlu/portfolio"><b>My portfolio. Lol</b></a>
 
-### 📮 Contact me here: 
+#### 📮  Contact me here: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandalu/)](https://www.linkedin.com/in/fernandalu/)
 
 
