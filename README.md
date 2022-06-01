@@ -3,8 +3,8 @@ I'm Fernanda Luna (She/Her/Hers) and I'm a Software Engineer at Wizeline👩🏻
 
 #### 🌸  About me
 - Most of my repos are personal projects. The code is messy and it can also be a bit ugly.
-- I'm focused on frontend development. I don't like backend-only roles, because I'm not good at backend and it also bores me to death (sorry!).
-- I love traveling, reading, drawing and learning new languages (I speak Spanish, English, some basic French and I'm learning Japanese).
+- I'm focused on frontend development. I don't like backend-only roles, because I'm not good at backend and it also bores me :(.
+- I love traveling, reading, drawing and learning new languages.
 
 <hr>
 
