@@ -14,10 +14,8 @@ I'm Fernanda Luna, and I'm currently working as a Software Engineer at Wizeline�
 #### 💻  Main stack
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ferlu/)](https://github.com/ferlu/) [![JS](https://img.shields.io/badge/-JS-black?style=flat-square&logo=javascript&link=https://github.com/ferlu/)](https://github.com/ferlu/) [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ferlu/)](https://github.com/ferlu/) [![Sass](https://img.shields.io/badge/-Sass-FF69B4?style=flat-square&logo=sass&logoColor=white&link=https://github.com/ferlu/)](https://github.com/ferlu/) [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&link=https://github.com/ferlu/)](https://github.com/ferlu/)
 
-#### ⭐️ Latest project
-<a href="https://github.com/ferlu/portfolio"><b>My portfolio. it's still very ugly I'm sorryyyyy</b></a>
 
-#### 📮  Reach out, don't be shy
+#### 📮  Reach out :)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandalu/)](https://www.linkedin.com/in/fernandalu/)
 
 
