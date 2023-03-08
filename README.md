@@ -1,5 +1,5 @@
 ## 👋  Hola!
-I'm Fernanda Luna, and I'm currently working as a Software Engineer at Wizeline👩🏻‍💻
+I'm Fernanda Luna, and I'm a Frontend Developer from MX :) 
 
 #### 🌸  About me
 - My repos are personal projects. They may (or may not) be a lil' ugly, but I'm just trying to have some fun coding. If I make a living out of them that'd be great, but if I don't, that's cool too. 
