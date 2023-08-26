@@ -2,11 +2,8 @@
 I'm Fernanda Luna, and I'm a Frontend Developer from MX :) 
 
 #### 🌸  About me
-- My repos are personal projects. They may (or may not) be a lil' ugly, but I'm just trying to have some fun coding. If I make a living out of them that'd be great, but if I don't, that's cool too. 
-- I believe I'm good at what I do. Not the best, and I'm still learning, but I am good. At the same time, I'm not great at algorithms. I get nervous. Whenever I feel like I'm excelling too much, I just test my problem solving knowledge, and boom, instantly humbled. 
 - Strengths: I'm a team player, I'm funny. I'm proactive. I would make a good leader. I'm empathetic. I love coding. I get stuff done. What I don't know, I can learn (I really mean this). I can communicate my needs and doubts. I can help others and I enjoy it. Big attention to detail. I can recommend good keyboards and cool apps. 
 - Weaknesses: I don't have any. Just kidding! I'm not the greatest at algorithms, I tend to procrastinate and I can be quite stubborn sometimes. I get distracted easily. I don't love sharing food (sorry). I might love WFH too much. 
-
 - Hobbies: I love traveling, reading, drawing and learning new languages. 
 
 <hr>
